@@ -1,0 +1,9 @@
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\bin\Debug\LargeTextFile.exe.config
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.csprojResolveAssemblyReference.cache
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.Form1.resources
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.Properties.Resources.resources
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.csproj.GenerateResource.Cache
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\bin\Debug\LargeTextFile.exe
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\bin\Debug\LargeTextFile.pdb
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.exe
+c:\users\al-amin\documents\visual studio 2013\Projects\LargeTextFile\LargeTextFile\obj\Debug\LargeTextFile.pdb
